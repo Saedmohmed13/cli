@@ -1,5 +1,5 @@
 name: Lint
-on:
+on:yy
   push:
     paths:
       - "**.go"
